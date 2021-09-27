@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: d954953d92de9354db951541b89f65c7
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 3870067309295726051
+    second: Body|Runnin
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Unnamed2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Unnamed2(Clone)
+      position: {x: -0, y: 1.8801774, z: 0}
+      rotation: {x: -0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Legs
+      parentName: Unnamed2(Clone)
+      position: {x: -0.42754, y: 0.7682669, z: -0.847471}
+      rotation: {x: -0.47414207, y: -0.47667518, z: -0.5247006, w: 0.52216804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Arms
+      parentName: Unnamed2(Clone)
+      position: {x: -0.580131, y: 0.69525784, z: -0.80678165}
+      rotation: {x: 0.5213148, y: 0.47781262, z: 0.5158134, w: -0.48359337}
+      scale: {x: 0.99999994, y: 1.0000007, z: 0.9999992}
+    - name: Face
+      parentName: Unnamed2(Clone)
+      position: {x: -4.6568227e-10, y: 2.6393332, z: 2.842171e-14}
+      rotation: {x: -0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Arms.001
+      parentName: Unnamed2(Clone)
+      position: {x: -0.4317362, y: 0.6887077, z: -0.8072101}
+      rotation: {x: 0.5, y: 0.5, z: 0.5, w: -0.5}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Legs.001
+      parentName: Unnamed2(Clone)
+      position: {x: -0.4277521, y: 0.61316884, z: -0.76385015}
+      rotation: {x: 0.52216774, y: 0.5247009, z: 0.47667485, w: -0.47414237}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
